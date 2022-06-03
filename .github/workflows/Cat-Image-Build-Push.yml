@@ -1,7 +1,7 @@
 name: Deploy Image to ECR
 
 on: 
-  pull:
+  push:
     branches: [ master ]
 
 jobs:
