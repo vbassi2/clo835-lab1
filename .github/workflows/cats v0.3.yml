@@ -1,4 +1,4 @@
-name: cat Image Deployment to Amazon ECR
+name: cat Image v0.3 Deployment to Amazon ECR
 
 on: 
   push:
